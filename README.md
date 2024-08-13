@@ -4,6 +4,8 @@ My name is Chance, <br/>
 I'm a Dedicated Computer Science student specializing in software engineering, web development and data science <br/>
 Experienced in several languages, tools and frameworks
 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/chance-bradford/)
+
 ## Languages
 
 <div align="left">
