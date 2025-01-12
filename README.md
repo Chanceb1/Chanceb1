@@ -97,6 +97,14 @@ Specializing <br>in Software Engineering, Web Development <br>and Data Science !
 	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
 </div>
 
+<br>
+<div align="center">
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanceb1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanceb1&show_icons=true&theme=radical)
+</div>
+
 <!--
 **Chanceb1/Chanceb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
