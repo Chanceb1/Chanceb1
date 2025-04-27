@@ -1,12 +1,13 @@
+<p align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=500&section=header&text=Hello%20Friends!&fontSize=70"/>
+</p>
 <h1 align="center">Hi👋, I'm Chance</h1>
-
-<h3 align="center">Senior Computer Science Student @ WSU !</h3>
-<h4 align="center">An Aspiring Software Engineer
-Specializing <br>in Software Engineering, Web Development <br>and Data Science !</h4>
+<h3 align="center">A Full-Stack Software Developer</h3>
+<h4 align="center">with a BS in computer science</h4>
+<h4 align="center">I Specialize in Software Engineering, Web Development <br>and Data Science !</h4>
 
 
 <h2 align="center"> Contact 📫</h2>
-
 <div align="center" style="text-align: center;">
   <a href="https://www.linkedin.com/in/chance-bradford/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -20,7 +21,7 @@ Specializing <br>in Software Engineering, Web Development <br>and Data Science !
 <h1>Familiar  Technologies 💻</h1>
 </div>
 <div align="center">
-<h2>Languages:</h2>
+<h2>Programming Languages</h2>
 </div>
 
 [//]: <> (Web Languages)
@@ -40,7 +41,7 @@ Specializing <br>in Software Engineering, Web Development <br>and Data Science !
 </div>
 
 <div align="center">
-<h2>UI Libraries:</h2>
+<h2>UI Libraries</h2>
 </div>
 
 [//]: <> (Libraries)
@@ -53,7 +54,7 @@ Specializing <br>in Software Engineering, Web Development <br>and Data Science !
 </div>
 
 <div align="center">
-<h2>Web Frameworks:</h2>
+<h2>Web Frameworks</h2>
 </div>
 
 [//]: <> (Frameworks)
@@ -67,7 +68,7 @@ Specializing <br>in Software Engineering, Web Development <br>and Data Science !
 </div>
 
 <div align="center">
-<h2>Databases (DBMS):</h2>
+<h2>Databases (DBMS)</h2>
 </div>
 
 [//]: <> (Databases)
@@ -80,7 +81,7 @@ Specializing <br>in Software Engineering, Web Development <br>and Data Science !
 </div>
 
 <div align="center">
-<h2>Tools:</h2>
+<h2>Tools</h2>
 </div>
 
 [//]: <> (Tools)
@@ -97,7 +98,7 @@ Specializing <br>in Software Engineering, Web Development <br>and Data Science !
 </div>
 
 <div align="center">
-<h2>Operating Systems:</h2>
+<h2>Operating Systems</h2>
 </div>
 
 <div align="center">
@@ -124,6 +125,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
