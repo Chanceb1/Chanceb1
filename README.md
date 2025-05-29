@@ -1,22 +1,24 @@
 <p align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=500&section=header&text=Hello%20Friends!&fontSize=70"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=500&section=header&text=Hello!&fontSize=70"/>
 </p>
 <h1 align="center">Hi👋, I'm Chance</h1>
 <h3 align="center">A Full-Stack Software Developer</h3>
 <h4 align="center">with a BS in computer science</h4>
 <h4 align="center">I Specialize in Software Engineering, Web Development <br>and Data Science !</h4>
-
+<div align="center">
+	- 🌱 I’m currently learning ...
+	Svelte and Java
+</div>
 
 <h2 align="center"> Contact 📫</h2>
 <div align="center" style="text-align: center;">
   <a href="https://www.linkedin.com/in/chance-bradford/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:bradfordchance@gmail.com">
+  <a href="mailto:chancebradford789@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
-
 <div align="center">
 <h1>Familiar  Technologies 💻</h1>
 </div>
@@ -56,6 +58,7 @@
 <div align="center">
 <h2>Web Frameworks</h2>
 </div>
+
 
 [//]: <> (Frameworks)
 <div align="center">
@@ -108,10 +111,8 @@
 
 <br>
 <div align="center">
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanceb1&layout=compact&theme=radical&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanceb1&show_icons=true&theme=radical&cache_seconds=1800)
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanceb1&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs"/>
+    <img height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=Chanceb1&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats"  alt="Github Stats"/>
 </div>
 
 <!--
