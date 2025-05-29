@@ -111,8 +111,8 @@
 
 <br>
 <div align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanceb1&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs"/>
-    <img height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=Chanceb1&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats"  alt="Github Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanceb1&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs"/>
+    <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=Chanceb1&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats"  alt="Github Stats"/>
 </div>
 
 <!--
