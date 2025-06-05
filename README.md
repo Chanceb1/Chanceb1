@@ -1,30 +1,25 @@
 <p align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=500&section=header&text=Hello!&fontSize=70"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=MAX&section=header&text=Hi👋,%20I'm%20Chance&fontSize=70"/>
 </p>
-<h1 align="center">Hi👋, I'm Chance</h1>
-<h3 align="center">A Full-Stack Software Developer</h3>
-<h4 align="center">with a BS in computer science</h4>
-<h4 align="center">I Specialize in Software Engineering, Web Development <br>and Data Science !</h4>
-<div align="center">
-	- 🌱 I’m currently learning ...
-	Svelte and Java
-</div>
 
-<h2 align="center"> Contact 📫</h2>
-<div align="center" style="text-align: center;">
-  <a href="https://www.linkedin.com/in/chance-bradford/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:chancebradford789@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+<h2 align="center">
+	A Full Stack Software Engineer<br>
+  	with a BS in Computer Science<br/><br/>
+  	I Specialize in Software Engineering, Web Development<br>
+	and Data Science!<br/><br/>
+	<p>
+		🌱 I’m currently learning
+		Svelte and Java !
+	</p>
+</h2>
+
+
 </div>
-<div align="center">
-<h1>Familiar  Technologies 💻</h1>
-</div>
-<div align="center">
-<h2>Programming Languages</h2>
-</div>
+<h1 align="Left">
+<!-- 	<p align="center">Familiar  Technologies 💻</p> -->
+	Languages
+	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40">
+</h1>
 
 [//]: <> (Web Languages)
 <div align="center">
@@ -42,36 +37,44 @@
 	<code><img width="100" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
 </div>
 
-<div align="center">
-<h2>UI Libraries</h2>
+<div align="left">
+<h1>
+	UI Libraries
+	<img src="https://img.icons8.com/fluency/48/web-design.png" alt="Web Design Icon" height="40"/>
+</h1>
 </div>
 
 [//]: <> (Libraries)
 <div align="center">
-	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
 	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/></code>
+	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chakra_ui.png" alt="Chakra UI" title="Chakra UI"/></code>
-	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/></code>
+<!-- 	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/></code> -->
 </div>
 
-<div align="center">
-<h2>Web Frameworks</h2>
+<div align="left">
+<h1>
+	Frameworks
+	<img src="https://img.icons8.com/fluency/48/api-settings.png" alt="API Settings" height="40"/>
+</h1>
 </div>
 
 
 [//]: <> (Frameworks)
 <div align="center">
 	<code><img width="100" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" title="FastAPI"/></code>
-	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
-	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/svelte.png" alt="Svelte" title="Svelte"/></code>
+<!-- 	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/svelte.png" alt="Svelte" title="Svelte"/></code> -->
 	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
 	<code><img width="100" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>
 	<code><img width="100" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/></code>
 </div>
 
-<div align="center">
-<h2>Databases (DBMS)</h2>
+<div align="left">
+<h1>
+	DBMS
+	<img src="https://img.icons8.com/color/48/server.png" alt="Colorful Server" height="40"/>
+</h1>
 </div>
 
 [//]: <> (Databases)
@@ -83,36 +86,40 @@
 	<code><img width="100" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></code>
 </div>
 
-<div align="center">
-<h2>Tools</h2>
+<div align="Left">
+<h1>
+	<b> Tools </b>
+	<img src="https://img.icons8.com/color/48/flow-chart.png" alt="Flow Chart" height="40"/>
+</h1>
 </div>
+
 
 [//]: <> (Tools)
 <div align="center">
 	<code><img width="100" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code>
-	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/></code>
+	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="OpenAPI Swagger UI"/></code>
 	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
 	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></code>
+<!-- 	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></code> -->
 	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" alt="Apache Spark" title="Apache Spark"/></code>
-	<code><img width="100" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
-</div>
-
-<div align="center">
-<h2>Operating Systems</h2>
-</div>
-
-<div align="center">
 	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
 	<code><img width="100" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
 </div>
 
-<br>
+
+<div align="Left">
+<h1>
+	<b> Stats </b>
+	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="40"> &ensp;
+</h1>
+</div>
+
 <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanceb1&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs"/>
-    <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=Chanceb1&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats"  alt="Github Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanceb1&layout=compact&theme=dark&cache_seconds=1800" alt="Top Langs"/>
+    <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=Chanceb1&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats"  alt="Github Stats"/>
+	<img width=440 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Chanceb1&count_private=true&theme=dark&border_radius=10&card_width=495" alt="streak stats"/>
 </div>
 
 <!--
