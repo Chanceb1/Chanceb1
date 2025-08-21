@@ -9,7 +9,7 @@
 	and Data Science!<br/><br/>
 	<p>
 		🌱 I’m currently learning
-		Svelte and Java !
+		Kotlin and Kotlin Compose Multiplatform !
 	</p>
 </h2>
 
