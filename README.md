@@ -7,11 +7,6 @@
   	with a BS in Computer Science<br/><br/>
   	I Specialize in Software Engineering, Web Development<br>
 	and Data Science!<br/><br/>
-	<p>
-		🌱 I’m currently learning 
-		<br> cross platform mobile development with <br>
-		Kotlin and Compose Multiplatform !
-	</p>
 </h2>
 
 
